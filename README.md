@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-I'm learning about backend programming.<br>
-I am attending a university.
+Thank you for visiting my GitHub.
+
+I'm primarily focused on developing stable and scalable backend systems using Java and the Spring framework. With extensive experience in data modeling and API development, I strive to meet business requirements to the best of my abilities.<br>
+
+You can find various projects on my GitHub repository that utilize Java and Spring. These projects reflect my approach to software development and backend system design.<br>
+
+From database design to security concerns, I handle various aspects of backend development. Not only do I aim to satisfy user requirements, but I also prioritize performance optimization and code maintenance.<br>
+
+If you have any questions about collaborating with me or my projects, feel free to reach out anytime. I look forward to the opportunity to create great solutions together.<br>
+
+Once again, thank you.
 
 ### email 💬
 hansung1908@naver.com
