@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-Thank you for visiting my GitHub.
+저의 GitHub를 방문해 주셔서 감사합니다.
 
-I'm primarily focused on developing stable and scalable backend systems using Java and the Spring framework. With extensive experience in data modeling and API development, I strive to meet business requirements to the best of my abilities.<br>
+저는 주로 Java와 Spring 프레임워크를 사용하여 안정적이고 확장 가능한 백엔드 시스템을 개발하는 데 집중하고 있습니다. 데이터 모델링 및 API 개발에 대한 풍부한 경험을 바탕으로, 비즈니스 요구 사항을 최선의 방법으로 충족시키기 위해 노력하고 있습니다.
 
-You can find various projects on my GitHub repository that utilize Java and Spring. These projects reflect my approach to software development and backend system design.<br>
+제 GitHub 저장소에서는 Java와 Spring을 활용한 다양한 프로젝트를 찾아보실 수 있습니다. 이 프로젝트들은 제가 소프트웨어 개발과 백엔드 시스템 설계에 접근하는 방식을 반영합니다.
 
-From database design to security concerns, I handle various aspects of backend development. Not only do I aim to satisfy user requirements, but I also prioritize performance optimization and code maintenance.<br>
+데이터베이스 설계에서부터 보안 문제까지, 백엔드 개발의 다양한 측면을 다루고 있습니다. 사용자 요구를 충족시키는 것뿐만 아니라 성능 최적화와 코드 유지보수도 우선순위에 두고 있습니다.
 
-If you have any questions about collaborating with me or my projects, feel free to reach out anytime. I look forward to the opportunity to create great solutions together.<br>
+저와의 협업이나 제 프로젝트에 대해 궁금한 점이 있으시면 언제든지 연락 주세요. 함께 훌륭한 솔루션을 만들 기회를 고대하고 있습니다.
 
-Once again, thank you.
+다시 한 번, 방문해 주셔서 감사합니다.
 
 ### email 💬
 hansung1908@naver.com
