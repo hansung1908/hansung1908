@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansung1908)](https://github.com/hansung1908/github-readme-stats)
+[![Github](https://www.codenary.co.kr/widget/github/api?username=유한빈)](https://www.codenary.co.kr/user-profile/detail/유한빈?github_ride=true&utm_source=github)
+
 
 ### license 📫
 정보처리기사 / 2024.06
@@ -9,7 +10,6 @@ hansung1908@naver.com
 
 ### skills 🔭
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![js](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 
@@ -27,6 +27,8 @@ hansung1908@naver.com
 ![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **hansung1908/hansung1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
